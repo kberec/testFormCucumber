@@ -63,5 +63,5 @@ Scenario Outline: Submit invalid age
 Examples:
 | name      | age  |
 | test 			| 60   |
-| test 			| 10   |
+| test 			| 60   |
 | 1   		  | 10   |
