@@ -62,6 +62,6 @@ Scenario Outline: Submit invalid age
 	Then Validation error for age is displayed
 Examples:
 | name      | age  |
-| test 			|  0   |
+| test 			| 60   |
 | test 			| 10   |
 | 1   		  | 10   |
